@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Latihan HTML</title>
+</head>
+
+<body>
+<center><h1>Bola Basket</h1>
+  <hr>
+  <p><b>Bola Voli</b> adalah olahraga bola <u>berkelompok yang terdiri atas dua 
+    tim</u> 
+    beranggotakan masing-masing enam orang yang saling bertanding mencetak poin dengan memasukkan bola ke dalam lapangan lawan. <i>Bola basket dapat dilakukan di ruang tertutup.</i></p>
+  <img src="https://images.app.goo.gl/9TzpmazPV8KhRhjD7" alt="Foto bola basket" width="200" height="200"></center>
+</body>
+
+</html>
