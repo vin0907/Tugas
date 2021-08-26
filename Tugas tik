@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Latihan HTML</title>
+</head>
+
+<body>
+<center><h1>Bola Voli</h1>
+  <hr>
+  <p><b>Bola voli</b> adalah olahraga bola <u>berkelompok yang terdiri atas dua 
+    tim</u> 
+    beranggotakan masing-masing enam orang yang saling bertanding mencetak poin dengan memasukkan bola ke dalam lapangan lawan. Bola voli bermain di lapangan tertutup, <i>walaupun pertandingan profesional pada umumnya dilakukan di ruang tertutup.</i></p>
+  <img src="https://images.app.goo.gl/THT9tD2yZMX9LwXm9" alt="Foto bola voli" width="200" height="200"></center>
+</body>
+
+</html>
